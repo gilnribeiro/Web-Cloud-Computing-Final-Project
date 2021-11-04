@@ -1,0 +1,6 @@
+
+[
+    {"car_id": "00-ZM-20", "location":"Lisbon", "duration":22},
+    {"car_id": "20-TU-34", "location":"Carcavelos", "duration":12},
+    {"car_id": "AC-10-UT", "location":"Carcavelos", "duration":12}
+]

@@ -8,8 +8,5 @@ Then, `cd` to the `server-side` folder in the project and run `nest start`, afte
 You will soon have the project running on `localhost:3000` and the server running on `localhost:8080`
 
 <img src="Project Gif/project_gif.gif" alt="My Project GIF" width="500" height="600">
-<img src="Project Gif/project_gif1.gif" alt="My Project GIF" width="500" height="600">
-
-
 
 Enjoy :)
